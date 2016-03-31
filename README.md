@@ -1,1 +1,1 @@
-See [http://aatree.github.io/](aatree.github.io)
+See [aatree.github.io](http://aatree.github.io)
